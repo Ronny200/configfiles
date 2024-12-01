@@ -1,0 +1,6 @@
+Users/
+.git/
+.stfolder
+.stignore
+*.log
+*.temp
