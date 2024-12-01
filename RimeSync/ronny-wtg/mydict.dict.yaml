@@ -1,0 +1,7 @@
+# mydict.dict.yaml
+
+---
+name: mydict
+version: "1"
+sort: by_weight
+...
